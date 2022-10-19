@@ -1,6 +1,6 @@
 node {
 
-   def registryProjet='formation/web-flavien'
+   def registryProjet='formation/web-flavien/'
    def IMAGE="${registryProjet}app:4.1"
 
     stage('Clone') {
